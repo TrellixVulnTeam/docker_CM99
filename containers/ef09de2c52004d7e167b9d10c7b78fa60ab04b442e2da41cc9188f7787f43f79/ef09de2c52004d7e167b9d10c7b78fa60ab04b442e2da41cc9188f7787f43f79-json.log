@@ -1,0 +1,18 @@
+{"log":"\u001b]0;root@ef09de2c5200: /\u0007root@ef09de2c5200:/# df -hT\r\n","stream":"stdout","time":"2020-09-13T23:33:33.237798302Z"}
+{"log":"Filesystem                        Type     Size  Used Avail Use% Mounted on\r\n","stream":"stdout","time":"2020-09-13T23:33:33.242354593Z"}
+{"log":"overlay                           overlay   19G  7.1G   11G  40% /\r\n","stream":"stdout","time":"2020-09-13T23:33:33.242374563Z"}
+{"log":"tmpfs                             tmpfs     64M     0   64M   0% /dev\r\n","stream":"stdout","time":"2020-09-13T23:33:33.242381115Z"}
+{"log":"tmpfs                             tmpfs    2.0G     0  2.0G   0% /sys/fs/cgroup\r\n","stream":"stdout","time":"2020-09-13T23:33:33.242386817Z"}
+{"log":"shm                               tmpfs     64M     0   64M   0% /dev/shm\r\n","stream":"stdout","time":"2020-09-13T23:33:33.242392448Z"}
+{"log":"/dev/mapper/ubuntu--vg-ubuntu--lv ext4      19G  7.1G   11G  40% /mnt\r\n","stream":"stdout","time":"2020-09-13T23:33:33.242397939Z"}
+{"log":"tmpfs                             tmpfs    2.0G     0  2.0G   0% /proc/asound\r\n","stream":"stdout","time":"2020-09-13T23:33:33.242403403Z"}
+{"log":"tmpfs                             tmpfs    2.0G     0  2.0G   0% /proc/acpi\r\n","stream":"stdout","time":"2020-09-13T23:33:33.242408704Z"}
+{"log":"tmpfs                             tmpfs    2.0G     0  2.0G   0% /proc/scsi\r\n","stream":"stdout","time":"2020-09-13T23:33:33.242414234Z"}
+{"log":"tmpfs                             tmpfs    2.0G     0  2.0G   0% /sys/firmware\r\n","stream":"stdout","time":"2020-09-13T23:33:33.242419633Z"}
+{"log":"\u001b]0;root@ef09de2c5200: /\u0007root@ef09de2c5200:/# cat /mnt/testfile.txt \r\n","stream":"stdout","time":"2020-09-13T23:33:44.997725116Z"}
+{"log":"persistent storage\r\n","stream":"stdout","time":"2020-09-13T23:33:45.00014951Z"}
+{"log":"persistent storage\r\n","stream":"stdout","time":"2020-09-13T23:33:45.00017029Z"}
+{"log":"\u001b]0;root@ef09de2c5200: /\u0007root@ef09de2c5200:/# cat /mnt/testfile.txt \r\n","stream":"stdout","time":"2020-09-13T23:33:48.039470108Z"}
+{"log":"persistent storage\r\n","stream":"stdout","time":"2020-09-13T23:33:48.042173903Z"}
+{"log":"persistent storage\r\n","stream":"stdout","time":"2020-09-13T23:33:48.04223764Z"}
+{"log":"\u001b]0;root@ef09de2c5200: /\u0007root@ef09de2c5200:/# \u0007","stream":"stdout","time":"2020-09-13T23:37:49.208662237Z"}

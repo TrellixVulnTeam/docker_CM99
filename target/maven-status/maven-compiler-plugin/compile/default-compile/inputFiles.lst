@@ -1,0 +1,7 @@
+/var/lib/docker/src/main/java/com/github/kkenan/basic/microservices/services/client/NodeClient.java
+/var/lib/docker/src/main/java/com/github/kkenan/basic/microservices/controllers/Controller.java
+/var/lib/docker/src/main/java/com/github/kkenan/basic/microservices/services/NodeService.java
+/var/lib/docker/src/main/java/com/github/kkenan/basic/microservices/services/dto/AppStatusResult.java
+/var/lib/docker/src/main/java/com/github/kkenan/basic/microservices/Application.java
+/var/lib/docker/src/main/java/com/github/kkenan/basic/microservices/services/dto/NodeResult.java
+/var/lib/docker/src/main/java/com/github/kkenan/basic/microservices/services/AppService.java

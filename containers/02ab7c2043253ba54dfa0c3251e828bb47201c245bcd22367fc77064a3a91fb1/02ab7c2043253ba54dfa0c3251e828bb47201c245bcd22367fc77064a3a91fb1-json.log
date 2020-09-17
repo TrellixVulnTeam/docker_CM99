@@ -1,0 +1,4 @@
+{"log":"\u001b]0;root@02ab7c204325: /\u0007root@02ab7c204325:/# \r\u001b[K\u001b]0;root@02ab7c204325: /\u0007root@02ab7c204325:/# uname -a\r\n","stream":"stdout","time":"2020-09-13T21:37:28.602070364Z"}
+{"log":"Linux 02ab7c204325 5.4.0-47-generic #51-Ubuntu SMP Fri Sep 4 19:50:52 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux\r\n","stream":"stdout","time":"2020-09-13T21:37:28.602129232Z"}
+{"log":"\u001b]0;root@02ab7c204325: /\u0007root@02ab7c204325:/# exit\r\n","stream":"stdout","time":"2020-09-13T21:37:42.573177751Z"}
+{"log":"exit\r\n","stream":"stdout","time":"2020-09-13T21:37:42.573246991Z"}

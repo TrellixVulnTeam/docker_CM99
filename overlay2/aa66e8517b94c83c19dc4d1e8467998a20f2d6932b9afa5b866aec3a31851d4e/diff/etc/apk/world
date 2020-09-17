@@ -1,0 +1,6 @@
+.postgresql-rundeps=20200814.173230
+alpine-baselayout
+alpine-keys
+apk-tools
+busybox
+libc-utils
